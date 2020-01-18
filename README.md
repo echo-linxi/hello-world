@@ -1,4 +1,4 @@
-# hellow-world
+# hello-world
 the first respository
 
 int main(int argc,char *argv)
